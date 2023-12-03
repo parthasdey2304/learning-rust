@@ -1,3 +1,4 @@
+// this code consists of the different data types in rust programming
 fn main() {
     let signed_integer : i32 = -10; // signed integer value ranges from i8 to i128
     let unsigned_integer : u32 = 10; // unsigned integer value ranges from u8 to u128
